@@ -1,2 +1,7 @@
 # podms
 my first year decision support tool system made with excel and vba
+
+****CAUTION****
+THE FILE THAT IS UPLOADED MIGHT EITHER BE ONLY FOR MAC OR FOR PC 
+I AM NOT SURE WHICH ONE BUT IT IS ONE OF THEM
+SOME PICTURES ARE ALSO MISSING
