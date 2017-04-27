@@ -2,6 +2,4 @@
 my first year decision support tool system made with excel and vba
 
 ****CAUTION****
-THE FILE THAT IS UPLOADED MIGHT EITHER BE ONLY FOR MAC OR FOR PC 
-I AM NOT SURE WHICH ONE BUT IT IS ONE OF THEM
-SOME PICTURES ARE ALSO MISSING
+There are two files, one that is compaitable with windows, and one with mac. Some pictures might also be missing
